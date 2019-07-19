@@ -1,2 +1,3 @@
 # simplenodeapp
-simple dockerized node application
+simple dockerized node application, linked on docker hub
+
